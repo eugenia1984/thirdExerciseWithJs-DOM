@@ -64,6 +64,6 @@ Si quieres ver cómo fue este proyecto, puedes hacerlo desde <br>
 
 ---
 ## Notas
-Agradezco su interés en este proyecto <br/>
-⌨️ con ❤️ de [María Eugenia Costa] (https://github.com/eugenia1984) 😊 y sígueme en [LinkedIn] (http://www.linkedin.com/in/maríaeugeniacosta)
+Agradezco su interés en este proyecto 
+⌨️ con ❤️ de [María Eugenia Costa](https://github.com/eugenia1984) 😊 y sígueme en [LinkedIn](http://www.linkedin.com/in/maríaeugeniacosta)
 
