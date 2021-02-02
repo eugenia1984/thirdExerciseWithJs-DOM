@@ -19,7 +19,7 @@ _This Project only has one master branch, it was a small project so it did not n
 
 ## Demo 📦
 If you want to see how this project was, you can do it from: <br>
-:arrow_right: **https://eugenia1984.github.io/thirdExerciseWithJs-DOM **
+:arrow_right: https://eugenia1984.github.io/thirdExerciseWithJs-DOM 
 
 ## Please: 🎁
 
@@ -53,8 +53,8 @@ _Este proyecto solo tiene una sucursal maestra, era un proyecto pequeño por lo 
 ** HTML 5 **, ** CSS3 ** y ** JAVASCRIPT **
 
 ## Demo 📦
-_Si quieres ver cómo fue este proyecto, puedes hacerlo desde: 
-:arrow_right: ** https: //eugenia1984.github.io/thirdExerciseWithJs-DOM **
+Si quieres ver cómo fue este proyecto, puedes hacerlo desde <br> 
+:arrow_right:  https://eugenia1984.github.io/thirdExerciseWithJs-DOM 
 
 ## Por favor: 🎁
 
